@@ -1,8 +1,8 @@
-# easy-notices
+# Easy notices
 Really easy notices
 
 
-# Installation
+## Installation
 
 ```bash
 pip install -r requirement.txt
